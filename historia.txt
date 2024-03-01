@@ -11,5 +11,6 @@ master 1.
 experimento 1.
 
 experimento 2.
+master 2.
 
 tambien ingrese a la universidad para estudiar licensiatura en deportes.
